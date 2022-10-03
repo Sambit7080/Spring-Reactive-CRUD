@@ -1,4 +1,4 @@
-package com.javatechie.reactive.entity;
+package com.sambit.reactive.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
